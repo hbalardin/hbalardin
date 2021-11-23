@@ -1,7 +1,5 @@
 <h1 align="center">Hello Everyone! 🙋 <br/ > I'm Henrique Balardin! </h1>
 
-<br />
-
 - 🇧🇷  - I'm a front-end developer from Brasil.
 - 📚  - I'm studying in my forth and last year of Information Technician at Federal Institute of Education, Science and Technology (IFSUL).
 - 🚀  - I love the feeling of making things better than I found them.
