@@ -8,7 +8,7 @@
 - 💻  - Studying front-end development since 2019.
 - ⚛️   - Working with [React](https://reactjs.org) and [TypeScript](https://www.typescriptlang.org) since 2020.
 
-- 🌎  - I can speak in english and portuguese.
+- 🌎  - I do speak english and portuguese.
 
 <br />
 
