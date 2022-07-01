@@ -1,26 +1,27 @@
 <h1 align="center">Hello Everyone! 🙋 <br/ > I'm Henrique Balardin! </h1>
 
-- 🇧🇷  - I'm a front-end developer from Brasil.
-- 📚  - I'm studying in my forth and last year of Information Technician at Federal Institute of Education, Science and Technology (IFSUL).
+- 🇧🇷  - I'm a front-end developer from Brazil.
+- 🌎  - I do speak english and portuguese.
+- 📚  - Graduated in Information Technology (IT) Technician at Federal Institute of Education, Science and Technology Sul Rio-Grandense (IFSUL - Sapiranga).
 - 🚀  - I love the feeling of making things better than I found them.
+
+---
 
 - 🖥   - Writing code since 2018.
 - 💻  - Studying front-end development since 2019.
 - ⚛️   - Working with [React](https://reactjs.org) and [TypeScript](https://www.typescriptlang.org) since 2020.
 
-- 🌎  - I do speak english and portuguese.
-
 <br />
 
-## Some Skills
+## Some Relevant Skills
 - HTML, CSS, JavaScript;
-- SASS, Tailwind, Styled Components;
 - Typescript;
-- Node.js
-- React Native
 - ReactJS
 - Next.js;
 - Redux; 
+- SASS, Tailwind, Styled Components;
+- Node.js, Express;
+- React Native, Expo;
   
 ## Coding Activity
 <div display="flex">
