@@ -1,5 +1,9 @@
 <h1 align="center">Hello Everyone! 🙋 <br/ > I'm Henrique Balardin! </h1>
 
+### Get in touch
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hbalardin)](https://www.linkedin.com/in/hbalardin)
+
+
 - 🇧🇷  - I'm a front-end developer from Brazil.
 - 🌎  - I do speak english and portuguese.
 - 📚  - Graduated in Information Technology (IT) Technician at Federal Institute of Education, Science and Technology Sul Rio-Grandense (IFSUL - Sapiranga).
@@ -13,23 +17,24 @@
 
 <br />
 
-## Some Relevant Skills
-- HTML, CSS, JavaScript;
-- Typescript;
-- ReactJS
-- Next.js;
-- Redux; 
-- SASS, Tailwind, Styled Components;
-- Node.js, Express;
-- React Native, Expo;
-  
-## Coding Activity
-<div display="flex">
-  <a href="https://github.com/hbalardin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hbalardin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbalardin&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+### Skills
+- Main stack: HTML CSS, JavaScript, Typescript.
+- Frameworks: React, Next.js
+- Testing: Jest and React Testing Library
+- Monitoring: New Relic
+- Data Tracking: Heap.io
+- HTTP Requests: React Query, Axios
+- State management: Zustand, Redux, Redux Toolkit, Redux Thunks
+- UI/Styling: Tailwind, AntDesign, Sass, Styled Components
+- Agile Methodologies (SCRUM)
+- Github and GitHub Actions (CI/CD)
+- Also familiar with: node.js and React Native
 
-## Getting in touch
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hbalardin)](https://www.linkedin.com/in/hbalardin)
+---
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hbalardin/hbalardin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hbalardin/hbalardin/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hbalardin/hbalardin/output/github-snake.svg" />
+</picture>
+
